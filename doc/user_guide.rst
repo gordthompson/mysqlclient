@@ -377,7 +377,7 @@ connect(parameters...)
             an exception is raised. *This must be a keyword
             parameter.*
 
-.. _mysql_ssl_set: http://dev.mysql.com/doc/refman/en/mysql-ssl-set.html
+.. _mysql_ssl_set: https://dev.mysql.com/doc/c-api/8.0/en/mysql-ssl-set.html
 
 
 apilevel
